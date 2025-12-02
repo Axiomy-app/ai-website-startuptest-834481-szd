@@ -9,7 +9,7 @@ import { useState } from 'react';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
-  headline: 'Build the Future, Test Today',
+  headline: 'Build the Future, Tests Today',
   subheadline:
     'The all-in-one platform that empowers startups to rapidly prototype, validate, and launch breakthrough products with confidence.',
   description:
