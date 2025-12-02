@@ -16,7 +16,7 @@ const DEFAULT_HERO = {
     'Join forward-thinking founders who are already using StartupTest to reduce development time by 60% and increase product-market fit success rates.',
   ctaText: 'Start Building Now',
   ctaHref: '/signup',
-  secondaryCtaText: 'Watch Demo',
+  secondaryCtaText: 'Watch Demo demo',
   secondaryCtaHref: '/demo',
   heroImageUrl:
     'https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
