@@ -13,7 +13,7 @@ const DEFAULT_HERO = {
   subheadline:
     'The all-in-one helo platform that empowers startups to rapidly prototype, validate, and launch breakthrough products with confidence.',
   description:
-    'Join forward-thinking founders who are already using StartupTest to reduce development time by 60% and increase product-market fit success rates.',
+    'Join forward-thinkings founders who are already using StartupTest to reduce development time by 60% and increase product-market fit success rates.',
   ctaText: 'Start Building Now',
   ctaHref: '/signup',
   secondaryCtaText: 'Watch Demo demo',
