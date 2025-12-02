@@ -1,4 +1,4 @@
-'use client';
+o'use client';
 
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
@@ -11,7 +11,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 const DEFAULT_HERO = {
   headline: 'Build the Future, Tests Today',
   subheadline:
-    'The all-in-one platform that empowers startups to rapidly prototype, validate, and launch breakthrough products with confidence.',
+    'The all-in-one helo platform that empowers startups to rapidly prototype, validate, and launch breakthrough products with confidence.',
   description:
     'Join forward-thinking founders who are already using StartupTest to reduce development time by 60% and increase product-market fit success rates.',
   ctaText: 'Start Building Now',
